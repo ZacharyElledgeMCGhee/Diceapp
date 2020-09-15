@@ -54,6 +54,34 @@ public class MainActivity extends AppCompatActivity {
                 imageViewDice.setImageResource(R.drawable.dice5);
             case 6:
                 imageViewDice.setImageResource(R.drawable.dice6);
+            case 7:
+                imageViewDice.setImageResource(R.drawable.dice7);
+            case 8:
+                imageViewDice.setImageResource(R.drawable.dice8);
+            case 9:
+                imageViewDice.setImageResource(R.drawable.dice9);
+            case 10:
+                imageViewDice.setImageResource(R.drawable.dice10);
+            case 11:
+                imageViewDice.setImageResource(R.drawable.dice11);
+            case 12:
+                imageViewDice.setImageResource(R.drawable.dice12);
+            case 13:
+                imageViewDice.setImageResource(R.drawable.dice13);
+            case 14:
+                imageViewDice.setImageResource(R.drawable.dice14);
+            case 15:
+                imageViewDice.setImageResource(R.drawable.dice15);
+            case 16:
+                imageViewDice.setImageResource(R.drawable.dice16);
+            case 17:
+                imageViewDice.setImageResource(R.drawable.dice17);
+            case 18:
+                imageViewDice.setImageResource(R.drawable.dice18);
+            case 19:
+                imageViewDice.setImageResource(R.drawable.dice19);
+            case 20:
+                imageViewDice.setImageResource(R.drawable.dice20);
         }
     }
 }
