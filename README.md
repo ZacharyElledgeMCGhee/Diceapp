@@ -1,5 +1,5 @@
 <div align="center">
-# Diceapp
+Diceapp
   </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zacharyelledgemcghee" alt="zacharyelledgemcghee"/>
