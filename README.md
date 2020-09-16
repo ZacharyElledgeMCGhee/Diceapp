@@ -14,5 +14,5 @@ Diceapp
 
 follow me!
 
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/mcgheee/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/zachmcgheee/)
 </div>
