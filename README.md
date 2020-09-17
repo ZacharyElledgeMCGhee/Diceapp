@@ -22,6 +22,6 @@ Sign Up to get a free stock! I get one too if you sign up.
 
 Contact me 
 
-[![email](https://img.shields.io/static/v1?label=Email&message=%20&color=blue&style=flat-square)](https://mail.google.com/mail/u/3/#inbox?compose=CllgCJlFlwVcbjPVSbLljSHhTgZsCcVbgmttqppDVXLXXKJTbFkGjsnSsmHRvrTjHGbgDltSmSB)
+[![email](https://img.shields.io/static/v1?label=Email&message=zte18a@acu.edu&%20&color=blue&style=flat-square)]
 
 </div>
