@@ -18,6 +18,6 @@ follow me!
 
 Sign Up to get a free stock!
 
-[![Robinhood](https://img.shields.io/static/v1?label=Robinhood&message=%20&color=green&style=flat-square)](join.robinhood.com/zachm260)
+[![Robinhood](https://img.shields.io/static/v1?label=Robinhood&message=%20&color=green&style=flat-square)](http://www.join.robinhood.com/zachm260)
 
 </div>
