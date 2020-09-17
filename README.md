@@ -15,4 +15,9 @@ Diceapp
 follow me!
 
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=blue&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/zachmcgheee/)
+
+Sign Up to get a free stock!
+
+[![Robinhood](https://img.shields.io/static/v1?label=Robinhood&message=%20&color=green&style=flat-square)](join.robinhood.com/zachm260)
+
 </div>
