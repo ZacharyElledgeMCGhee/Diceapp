@@ -20,4 +20,8 @@ Sign Up to get a free stock! I get one too if you sign up.
 
 [![Robinhood](https://img.shields.io/static/v1?label=Robinhood&message=%20&color=green&style=flat-square)](http://join.robinhood.com/zachm260)
 
+Contact me 
+
+[![email](https://img.shields.io/static/v1?label=Email&message=%20&color=blue&style=flat-square)](https://mail.google.com/mail/u/3/#inbox?compose=CllgCJlFlwVcbjPVSbLljSHhTgZsCcVbgmttqppDVXLXXKJTbFkGjsnSsmHRvrTjHGbgDltSmSB)
+
 </div>
